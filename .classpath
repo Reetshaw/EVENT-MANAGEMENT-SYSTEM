@@ -13,12 +13,12 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/Abhinav Sarkhel/Downloads/DRIVER/DRIVER/jakarta-servlet-api-4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Abhinav Sarkhel/Downloads/DRIVER/DRIVER/jstl-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Abhinav Sarkhel/Downloads/apache-tomcat-9.0.86-windows-x64 (1)/apache-tomcat-9.0.86/lib/jsp-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Abhinav Sarkhel/Downloads/apache-tomcat-9.0.86-windows-x64 (1)/apache-tomcat-9.0.86/lib/servlet-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Abhinav Sarkhel/Downloads/apache-tomcat-9.0.86-windows-x64 (1)/apache-tomcat-9.0.86/lib/tomcat-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Abhinav Sarkhel/Downloads/apache-tomcat-9.0.86-windows-x64 (1)/apache-tomcat-9.0.86/lib/jasper.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Abhinav Sarkhel/Downloads/1A/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Reet Shaw/Downloads/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Reet Shaw/Downloads/apache-tomcat-9.0.86-windows-x64/apache-tomcat-9.0.86/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Reet Shaw/Downloads/apache-tomcat-9.0.86-windows-x64/apache-tomcat-9.0.86/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Reet Shaw/Downloads/apache-tomcat-9.0.86-windows-x64/apache-tomcat-9.0.86/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Reet Shaw/Downloads/apache-tomcat-9.0.86-windows-x64/apache-tomcat-9.0.86/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Reet Shaw/Downloads/DRIVER/DRIVER/jakarta-servlet-api-4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Reet Shaw/Downloads/DRIVER/DRIVER/jstl-1.2.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

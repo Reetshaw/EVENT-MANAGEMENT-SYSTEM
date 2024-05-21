@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+0<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
     
    <%-------<style><%@include file="./CSS/.css"%></style> --%>  
@@ -19,7 +19,7 @@
     <div class="container">
         <h1 style="text-align: center">EVENT MANAGEMENT PORTAL</h1>
         <hr>
-        <marquee scrollamount="10" style="color:red;">REGISTRATION WILL BE CLOSED ON 10TH MARCH</marquee>
+        <marquee scrollamount="10" style="color:red;">REGISTRATION WILL BE CLOSED ON 18TH MARCH</marquee>
         <hr>
 <center>
 <form action="add.jsp" method="post">
